@@ -7,7 +7,7 @@
 - 🔍 Puedes ver mis trabajos en mis distintos [repositorios]
 - 💻 Sigo trabajando y aprendiendo para mejorar mis repositorios.
 - 🏫 Estoy estudiando en la [Universidad Tecnológica de la Mixteca].
-- 🖼️ Actualmente me interesa temas acerca del reconocimiento de imagenes.
+- 🖼️ Actualmente me interesa temas acerca del reconocimiento de imágenes.
 - 💬 Me agrada trabajar en equipo porque aprendo cosas nuevas de las personas.
 - 🪛 Además de la programación me gusta la electrónica y los sistemas embebidos .
 
