@@ -14,7 +14,7 @@
 
 ## 🧑🏽‍💻 Lenguajes y Tecnologías que conozco⚙️
 
-> Estas son algunas de las herramientas que utilizo o he utilizado actualmente.
+> Estas son algunas de las herramientas que utilizo actualmente o he utilizado no hace mucho .
 
 <table align="center">
   <tr>
