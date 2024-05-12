@@ -153,6 +153,7 @@
         </a>
         <br>Alpine JS
     </td>
+  Visita mi[pagina Web](https://jordan-ayuzo-pacheco.netlify.app).
  </tr>
 
 </table>
