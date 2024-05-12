@@ -10,6 +10,7 @@
 - 🖼️ Actualmente me interesa temas acerca del reconocimiento de imágenes.
 - 💬 Me agrada trabajar en equipo porque aprendo cosas nuevas de las personas.
 - 🪛 Además de la programación me gusta la electrónica y los sistemas embebidos .
+- Visita mi[pagina Web](https://jordan-ayuzo-pacheco.netlify.app) .
 
 
 ## 🧑🏽‍💻 Lenguajes y Tecnologías que conozco⚙️
@@ -153,7 +154,7 @@
         </a>
         <br>Alpine JS
     </td>
-  Visita mi[pagina Web](https://jordan-ayuzo-pacheco.netlify.app).
+  
  </tr>
 
 </table>
